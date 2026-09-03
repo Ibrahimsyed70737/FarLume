@@ -8,7 +8,7 @@ The project was built as part of the **Design Esthetics Front-End Developer Asse
 
 ## 🔗 Links
 
-🌐 **Live Application:** far-lume-8i24fbcf5-ibrahimsyed70737.vercel.app
+🌐 **Live Application:** https://far-lume-8i24fbcf5-ibrahimsyed70737.vercel.app
 
 💻 **GitHub Repository:** https://github.com/Ibrahimsyed70737/FarLume
 
