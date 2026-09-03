@@ -1,9 +1,16 @@
-# Farlume
+# 🌍 FarLume
 
-A travel web app: explore destinations, check real-time weather, and plan a trip with an AI assistant. Built for the Designesthetics front-end assignment.
+## Overview
 
-**Live site:** _add your deployed link here after you deploy_
-**Repo:** _add your GitHub link here_
+FarLume is a modern travel web application designed to help users explore destinations, discover famous places, check real-time weather, and plan their trips with AI-powered assistance.
+
+The project was built as part of the **Design Esthetics Front-End Developer Assessment**.
+
+## 🔗 Links
+
+🌐 **Live Application:** far-lume-8i24fbcf5-ibrahimsyed70737.vercel.app
+
+💻 **GitHub Repository:** https://github.com/Ibrahimsyed70737/FarLume
 
 ---
 
@@ -148,3 +155,22 @@ If geolocation is denied, the app tells you and lets you search for a city inste
 ## Accessibility & responsiveness
 
 Tested with axe-core across five screen widths (320px through 1440px) and every route — keyboard navigation, screen-reader-friendly markup, and visible focus states are all in place.
+
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![FarLume Home Page](public/screenshots/homepage.png)
+
+### 🌍 Destination Explorer
+
+![Destination Explorer](public/screenshots/destinations.png)
+
+### 🌤️ Weather Feature
+
+![Weather Feature](public/screenshots/weather.png)
+
+### 🤖 AI Travel Assistant
+
+![AI Travel Assistant](public/screenshots/chatbot.png)
